@@ -1,0 +1,19 @@
+{
+  "name": "testing-node-sync-event-loop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "blocked-at": "^1.2.0",
+    "bluebird": "^3.7.2",
+    "express": "^4.17.1",
+    "express-status-monitor": "^1.3.2",
+    "node-sync": "^0.5.6",
+    "sync": "^0.2.5"
+  }
+}
